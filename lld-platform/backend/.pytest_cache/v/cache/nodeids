@@ -1,0 +1,19 @@
+[
+  "tests/test_api.py::test_full_practice_loop_end_to_end",
+  "tests/test_api.py::test_get_problem_detail_includes_criteria",
+  "tests/test_api.py::test_get_unknown_problem_404s",
+  "tests/test_api.py::test_health",
+  "tests/test_api.py::test_list_problems_returns_seeded_problems",
+  "tests/test_api.py::test_retry_endpoint_recomputes_feedback",
+  "tests/test_api.py::test_submission_requires_some_content",
+  "tests/test_deterministic_evaluator.py::test_empty_code_does_not_crash",
+  "tests/test_deterministic_evaluator.py::test_entity_coverage_full_match",
+  "tests/test_deterministic_evaluator.py::test_entity_coverage_partial_match_reports_missing",
+  "tests/test_deterministic_evaluator.py::test_god_class_flagged_when_method_count_imbalanced",
+  "tests/test_deterministic_evaluator.py::test_god_class_not_flagged_for_balanced_classes",
+  "tests/test_deterministic_evaluator.py::test_naming_flags_lowercase_class_name",
+  "tests/test_pipeline.py::test_pipeline_completes_and_persists_feedback",
+  "tests/test_pipeline.py::test_pipeline_marks_degraded_when_llm_fails_but_still_completes",
+  "tests/test_pipeline.py::test_pipeline_raises_and_marks_failed_on_unexpected_error",
+  "tests/test_pipeline.py::test_weighted_aggregation_favors_higher_weight_criteria"
+]

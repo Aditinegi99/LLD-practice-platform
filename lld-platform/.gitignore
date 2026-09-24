@@ -1,0 +1,7 @@
+# Environment variables
+backend/.env
+
+# Dependencies
+node_modules/
+.venv/
+__pycache__/
